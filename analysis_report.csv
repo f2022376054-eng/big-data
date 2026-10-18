@@ -1,0 +1,216 @@
+﻿Section,Item,Value,Details
+1. Video Overview,Title,I tested the most Futuristic Tech - it scared me.,
+1. Video Overview,Channel,Mrwhosetheboss,
+1. Video Overview,Video ID,nQdXp6HKKik,https://www.youtube.com/watch?v=nQdXp6HKKik
+1. Video Overview,Published,2026-10-10,8 days before analysis
+1. Video Overview,Duration (ISO 8601),PT24M32S,
+1. Video Overview,Views,15465044,
+1. Video Overview,Likes,142770,Like-to-view ratio 0.92%
+1. Video Overview,Total comments on video,4788,Comment-to-view ratio 0.031%
+2. Data Collection,Source,YouTube Data API v3,"endpoints: videos.list, commentThreads.list"
+2. Data Collection,Comments analysed,200,"Top-level comments, 'relevance' order (YouTube's top comments)"
+2. Data Collection,API requests used,3,"Approx. 3 quota units of 10,000 daily"
+2. Data Collection,Analysis date,2026-10-18 20:00,
+2. Data Collection,Total words (raw),3250,Average 16.2 words per comment
+2. Data Collection,Tokens after cleaning,1255,"61% removed as stop words, noise or short tokens"
+2. Data Collection,Unique vocabulary,727,Distinct lemmatised words
+2. Data Collection,Comments containing emoji,54,82 emoji in total
+2. Data Collection,Language: en,186,93% of comments
+2. Data Collection,Language: undetermined (too short),13,6% of comments
+2. Data Collection,Language: so,1,0% of comments
+3. Overall Audience Response,Verdict,"Positive - most viewers responded well, with limited criticism.",
+3. Overall Audience Response,Positive comments,120,60.0%
+3. Overall Audience Response,Neutral comments,47,23.5%
+3. Overall Audience Response,Negative comments,33,16.5%
+3. Overall Audience Response,Mean compound score,0.279,Range -1 (very negative) to +1 (very positive)
+3. Overall Audience Response,Median compound score,0.361,
+3. Overall Audience Response,Like-weighted compound score,0.281,"Each comment weighted by log(1 + likes) + 1, so popular opinions count more"
+3. Overall Audience Response,Positive-to-negative ratio,3.64,
+4. Engagement Insights,Total likes on analysed comments,42791,
+4. Engagement Insights,Average likes per comment,214.0,Median 13
+4. Engagement Insights,Comments with replies,85,707 replies in total
+4. Engagement Insights,Share of likes held by top 10 comments,84%,Shows how concentrated audience agreement is
+4. Engagement Insights,Average sentiment of top 10 liked comments,0.418,
+4. Engagement Insights,Sentiment vs likes (Spearman),-0.001,Positive value = more positive comments receive more likes
+4. Engagement Insights,Average likes - positive comments,261.6,
+4. Engagement Insights,Average likes - neutral comments,62.7,
+4. Engagement Insights,Average likes - negative comments,256.0,
+5. Top Keywords,#1,camera,23 occurrences
+5. Top Keywords,#2,cool,15 occurrences
+5. Top Keywords,#3,guitar,15 occurrences
+5. Top Keywords,#4,tech,14 occurrences
+5. Top Keywords,#5,iphone,12 occurrences
+5. Top Keywords,#6,drone,11 occurrences
+5. Top Keywords,#7,hand,10 occurrences
+5. Top Keywords,#8,hat,9 occurrences
+5. Top Keywords,#9,mouthpad,9 occurrences
+5. Top Keywords,#10,better,8 occurrences
+5. Top Keywords,#11,futuristic,8 occurrences
+5. Top Keywords,#12,electronic,8 occurrences
+5. Top Keywords,#13,instrument,7 occurrences
+5. Top Keywords,#14,sound,7 occurrences
+5. Top Keywords,#15,bad,7 occurrences
+5. Top Keywords,#16,future,7 occurrences
+5. Top Keywords,#17,phone,6 occurrences
+5. Top Keywords,#18,mouth,6 occurrences
+5. Top Keywords,#19,play,6 occurrences
+5. Top Keywords,#20,head,6 occurrences
+5. Top Keywords,#21,game,6 occurrences
+5. Top Keywords,#22,genuinely,5 occurrences
+5. Top Keywords,#23,seem,5 occurrences
+5. Top Keywords,#24,definitely,5 occurrences
+5. Top Keywords,#25,work,5 occurrences
+5. Top Keywords,#26,robot,5 occurrences
+5. Top Keywords,#27,useful,5 occurrences
+5. Top Keywords,#28,charge,5 occurrences
+5. Top Keywords,#29,wear,5 occurrences
+5. Top Keywords,#30,love,5 occurrences
+6. Top Phrases,Bigram,iphone better,4 occurrences
+6. Top Phrases,Bigram,futuristic tech,4 occurrences
+6. Top Phrases,Bigram,iphone camera,4 occurrences
+6. Top Phrases,Bigram,electronic guitar,3 occurrences
+6. Top Phrases,Bigram,footage better,2 occurrences
+6. Top Phrases,Bigram,mouthpad seem,2 occurrences
+6. Top Phrases,Bigram,prefer iphone,2 occurrences
+6. Top Phrases,Bigram,futuristic technology,2 occurrences
+6. Top Phrases,Bigram,disable adapt,2 occurrences
+6. Top Phrases,Bigram,mouth trackpad,2 occurrences
+6. Top Phrases,Bigram,electronic instrument,2 occurrences
+6. Top Phrases,Bigram,play instrument,2 occurrences
+6. Top Phrases,Bigram,genuinely worth,2 occurrences
+6. Top Phrases,Bigram,guitar market,2 occurrences
+6. Top Phrases,Bigram,robot vacuum,2 occurrences
+6. Top Phrases,Bigram,camera seem,2 occurrences
+6. Top Phrases,Bigram,drone camera,2 occurrences
+6. Top Phrases,Bigram,camera definitely,2 occurrences
+6. Top Phrases,Bigram,beat minecraft,2 occurrences
+6. Top Phrases,Bigram,hand free,2 occurrences
+6. Top Phrases,Trigram,iphone camera seem,2 occurrences
+6. Top Phrases,Trigram,remind diamond steal,2 occurrences
+6. Top Phrases,Trigram,diamond steal scene,2 occurrences
+6. Top Phrases,Trigram,steal scene dhoom,2 occurrences
+7. TF-IDF Key Terms,#1,camera,mean TF-IDF 0.0350
+7. TF-IDF Key Terms,#2,iphone,mean TF-IDF 0.0257
+7. TF-IDF Key Terms,#3,cool,mean TF-IDF 0.0245
+7. TF-IDF Key Terms,#4,tech,mean TF-IDF 0.0224
+7. TF-IDF Key Terms,#5,hand,mean TF-IDF 0.0208
+7. TF-IDF Key Terms,#6,better,mean TF-IDF 0.0198
+7. TF-IDF Key Terms,#7,drone,mean TF-IDF 0.0189
+7. TF-IDF Key Terms,#8,wear,mean TF-IDF 0.0183
+7. TF-IDF Key Terms,#9,guitar,mean TF-IDF 0.0174
+7. TF-IDF Key Terms,#10,definitely,mean TF-IDF 0.0169
+7. TF-IDF Key Terms,#11,futuristic,mean TF-IDF 0.0155
+7. TF-IDF Key Terms,#12,head,mean TF-IDF 0.0151
+7. TF-IDF Key Terms,#13,mouthpad,mean TF-IDF 0.0149
+7. TF-IDF Key Terms,#14,product,mean TF-IDF 0.0143
+7. TF-IDF Key Terms,#15,hat,mean TF-IDF 0.0140
+7. TF-IDF Key Terms,#16,phone,mean TF-IDF 0.0130
+7. TF-IDF Key Terms,#17,leave,mean TF-IDF 0.0130
+7. TF-IDF Key Terms,#18,talk,mean TF-IDF 0.0129
+7. TF-IDF Key Terms,#19,poor,mean TF-IDF 0.0127
+7. TF-IDF Key Terms,#20,play,mean TF-IDF 0.0127
+7. TF-IDF Key Terms,#21,bad,mean TF-IDF 0.0127
+7. TF-IDF Key Terms,#22,future,mean TF-IDF 0.0124
+7. TF-IDF Key Terms,#23,smaller,mean TF-IDF 0.0120
+7. TF-IDF Key Terms,#24,iphone better,mean TF-IDF 0.0119
+7. TF-IDF Key Terms,#25,literally,mean TF-IDF 0.0118
+8. Discussion Topics (LDA),Coherence for k=3,-53.374,
+8. Discussion Topics (LDA),Coherence for k=4,-40.768,chosen
+8. Discussion Topics (LDA),Coherence for k=5,-43.019,
+8. Discussion Topics (LDA),Coherence for k=6,-44.309,
+8. Discussion Topics (LDA),Coherence for k=7,-44.424,
+8. Discussion Topics (LDA),Topic 1: camera / iphone / better,66 comments (33%),"Keywords: camera, iphone, better, bad, wear, definitely, game, head | avg sentiment +0.24 | 61% positive | avg likes 311.2 | example: ""The iPhone footage was so much better? 😂"""
+8. Discussion Topics (LDA),Topic 2: guitar / cool / tech,44 comments (22%),"Keywords: guitar, cool, tech, instrument, sound, play, futuristic, genuinely | avg sentiment +0.37 | 70% positive | avg likes 216.7 | example: ""Ngl, as a bassist and sometimes guitarist, I can speak for a lot of musicians when I say, almost nobody likes these electronic instruments. Electro..."""
+8. Discussion Topics (LDA),Topic 3: mouthpad / leave / mind,39 comments (20%),"Keywords: mouthpad, leave, mind, clipper, toothbrush, poor, talk, camera | avg sentiment +0.19 | 56% positive | avg likes 158.6 | example: ""0:45 Just left the poor guy with half a haircut 😂"""
+8. Discussion Topics (LDA),Topic 4: hand / drone / robot,47 comments (24%),"Keywords: hand, drone, robot, product, imagine, dhoom, movie, futuristic | avg sentiment +0.32 | 53% positive | avg likes 136.1 | example: ""So many solutions in search of a problem."""
+9. Comment Categories,General Opinion,102,51% of comments | avg sentiment +0.34
+9. Comment Categories,Humour / Joke,43,22% of comments | avg sentiment +0.43
+9. Comment Categories,Criticism / Concern,25,12% of comments | avg sentiment -0.37
+9. Comment Categories,Question,19,10% of comments | avg sentiment +0.35
+9. Comment Categories,Appreciation / Praise,8,4% of comments | avg sentiment +0.68
+9. Comment Categories,Request / Suggestion,1,0% of comments | avg sentiment +0.72
+9. Comment Categories,Personal Story,1,0% of comments | avg sentiment +0.00
+9. Comment Categories,Purchase Intent,1,0% of comments | avg sentiment -0.43
+9. Comment Categories,(overlapping) Contains a question,22,A comment can carry several of these flags
+9. Comment Categories,(overlapping) Contains a request,1,A comment can carry several of these flags
+9. Comment Categories,(overlapping) Expresses appreciation,9,A comment can carry several of these flags
+9. Comment Categories,(overlapping) Raises criticism,26,A comment can carry several of these flags
+9. Comment Categories,(overlapping) Shows purchase intent,1,A comment can carry several of these flags
+9. Comment Categories,(overlapping) Humour / laughter,50,A comment can carry several of these flags
+9. Comment Categories,(overlapping) Shares a personal story,1,A comment can carry several of these flags
+9. Comment Categories,(overlapping) References a timestamp,121,A comment can carry several of these flags
+10. Most Liked Comments,12192 likes,Positive,The iPhone footage was so much better? 😂
+10. Most Liked Comments,5240 likes,Positive,"Ngl, as a bassist and sometimes guitarist, I can speak for a lot of musicians when I say, almost nobody likes these electronic instruments. Electronic drum kits are actually cool because they are very convenient given the nature of drums. Electronic pianos work really well, very convenient and re..."
+10. Most Liked Comments,4835 likes,Negative,0:45 Just left the poor guy with half a haircut 😂
+10. Most Liked Comments,4683 likes,Positive,5:27 definitely prefer the iphone here
+10. Most Liked Comments,2612 likes,Positive,Surprised the Balmuda toaster wasn't in here with its futuristic bread taste!
+10. Most Liked Comments,2298 likes,Negative,So many solutions in search of a problem.
+10. Most Liked Comments,1429 likes,Positive,"The hat is the ultimate zombie apocalypse tool lmao 40% in 2 hours means you can essentially make your phone last forever with a little bit of care (considering its not always going to stay in direct sunlight etc etc), its genuinely so cool"
+10. Most Liked Comments,1124 likes,Positive,The mouth trackpad was crazy!!! (it will be good for ppl that can't use their hands)
+10. Most Liked Comments,775 likes,Positive,5:22 To be fair the iphone looked a lot better
+10. Most Liked Comments,578 likes,Neutral,"I think Arun should emphasize that most of these ""futuristic"" technologies are designed for people with disabilities. They are not designed to be convenient for you, but for disabled people to use and adapt to their daily needs"
+11. Most Positive Comments,compound +0.993,5240 likes,"Ngl, as a bassist and sometimes guitarist, I can speak for a lot of musicians when I say, almost nobody likes these electronic instruments. Electronic drum kits are actually cool because they are very convenient given the nature of drums. Electronic pianos work really well, very convenient and re..."
+11. Most Positive Comments,compound +0.905,86 likes,"The Mouthpad at first seems ridiculous, but then you think about quadriplegics and other people with disabilities. and the freedom it can give those who are born without arms or hands or have muscular issues etc... and it's brilliant."
+11. Most Positive Comments,compound +0.904,6 likes,19:54 I love that the Minecraft camera is moving to his hand gestures xD
+11. Most Positive Comments,compound +0.883,488 likes,19:26 a mouthpad seems like one of the best accessibility devices ever I’m sure there are thousands that needs this (edit : this is the original comment the other one that says the same thing is a bot posted 7 hours later)
+11. Most Positive Comments,compound +0.882,6 likes,8:43 superb 👌
+12. Most Negative Comments,compound -0.807,90 likes,5:16 I think most people would still pick the iPhone look. The camera seems to struggle with focus Imagine most here still have no clue about Grokmaxus. Wtf?
+12. Most Negative Comments,compound -0.802,80 likes,"5:35 So a bad camera with no built in display. Sign me up....wtf. Many of these stuff feels like some money laundry scam, or scamming investors"
+12. Most Negative Comments,compound -0.716,3 likes,So i just watched expensive and totally useless crap for 24 minutes.
+12. Most Negative Comments,compound -0.625,101 likes,20:36 Every camera he tests looks such bad quality when Mrwhosetheboss goes back to his main camera😭💔
+12. Most Negative Comments,compound -0.599,9 likes,"Came for the hair clippers, stayed to watch a robot vacuum bully a shoe 23:20 Tech is a fever dream bro 🫪"
+13. What the Audience Loves,Words distinctive of positive comments,"cool, drone, hand, electronic, instrument, sound, future, definitely, futuristic, genuinely",Smoothed log-ratio vs negative comments
+13. What the Audience Loves,Appreciation example,86 likes,"The Mouthpad at first seems ridiculous, but then you think about quadriplegics and other people with disabilities. and the freedom it can give those who are born without arms or hands or have muscular issues etc... and it's brilliant."
+13. What the Audience Loves,Appreciation example,12 likes,That hat charging the phone was a brilliant audience retention hack ngl 🤣
+13. What the Audience Loves,Appreciation example,12 likes,The accessibility features that are in the mouthpad is fucking awesome
+13. What the Audience Loves,Appreciation example,10 likes,"2:00 point isn't charging your phone, point is not cooking your head and wow that's awesome"
+13. What the Audience Loves,Appreciation example,4 likes,"4:45 MAAAAAN! I was hoping you would mention how bad their software looks. I’m an early adopter of that camera and it should not be marketed towards the AI features at all in my eyes. I have a couple pro cameras and I got it so I wouldn’t have to have that and my lenses and phone. As a whole, the..."
+14. Concerns and Criticism,Words distinctive of negative comments,"poor, control, diamond, disguise, elden, hair, half, hit, low, many",Smoothed log-ratio vs positive comments
+14. Concerns and Criticism,Concern example,2298 likes | Negative,So many solutions in search of a problem.
+14. Concerns and Criticism,Concern example,347 likes | Negative,"5:15 dude, the camera is bad. Like really bad. iPhone is way better."
+14. Concerns and Criticism,Concern example,347 likes | Negative,06:06 even AI easily understood that short under a leather jacket is absolutely bad decision brother
+14. Concerns and Criticism,Concern example,90 likes | Negative,5:16 I think most people would still pick the iPhone look. The camera seems to struggle with focus Imagine most here still have no clue about Grokmaxus. Wtf?
+14. Concerns and Criticism,Concern example,80 likes | Negative,"5:35 So a bad camera with no built in display. Sign me up....wtf. Many of these stuff feels like some money laundry scam, or scamming investors"
+14. Concerns and Criticism,Concern example,29 likes | Negative,21:50 ngl I thought this was confusing to be on the list but it ended up being the coolest thing in the video……
+15. Audience Requests,Requested,someone try playing an fps game with the gyro sensors,1 mention(s)
+16. Audience Questions,12192 likes,Positive,The iPhone footage was so much better? 😂
+16. Audience Questions,226 likes,Neutral,3:37 Ayo yo where is your pants at ?
+16. Audience Questions,90 likes,Negative,5:16 I think most people would still pick the iPhone look. The camera seems to struggle with focus Imagine most here still have no clue about Grokmaxus. Wtf?
+16. Audience Questions,85 likes,Neutral,Who tf needs an AI toothbrush.
+16. Audience Questions,40 likes,Positive,No pants?😂 3:39
+16. Audience Questions,37 likes,Positive,17:20 cleaning fluid?? 😂😂Ain't it water
+16. Audience Questions,36 likes,Positive,14:16 would be of great use if it was a little smaller? 😂
+16. Audience Questions,26 likes,Negative,What did You do with his hair 1:02 😢
+16. Audience Questions,25 likes,Neutral,10:38 Are we gonna talk about the t-shirt?
+16. Audience Questions,22 likes,Positive,15:46 They wanna clean inside you??? Huh??? 😅
+17. Video Timeline Engagement,Comments quoting a timestamp,121,Grouped into 2-minute segments of the video by the first timestamp quoted
+17. Video Timeline Engagement,Segment 00:00-02:00,8 comments | 5095 likes,"avg sentiment -0.05 | keywords: poor, leave, half, haircut, destroy | top comment: ""0:45 Just left the poor guy with half a haircut 😂"""
+17. Video Timeline Engagement,Segment 02:00-04:00,9 comments | 321 likes,"avg sentiment +0.29 | keywords: pant, modular, charge, point, ayo | top comment: ""3:37 Ayo yo where is your pants at ?"""
+17. Video Timeline Engagement,Segment 04:00-06:00,14 comments | 6865 likes,"avg sentiment +0.26 | keywords: camera, iphone, better, bad, seem | top comment: ""5:27 definitely prefer the iphone here"""
+17. Video Timeline Engagement,Segment 06:00-08:00,6 comments | 495 likes,"avg sentiment -0.13 | keywords: guitar, easily, understand, short, leather | top comment: ""06:06 even AI easily understood that short under a leather jacket is absolutely bad decision brother"""
+17. Video Timeline Engagement,Segment 08:00-10:00,6 comments | 217 likes,"avg sentiment +0.44 | keywords: real, expect, play, different, song | top comment: ""8:03 let’s be real everyone expected Arun to play a different song…"""
+17. Video Timeline Engagement,Segment 10:00-12:00,9 comments | 230 likes,"avg sentiment +0.09 | keywords: talk, human, soon, thermal, paste | top comment: ""10:31 Human will soon need thermal paste 😂"""
+17. Video Timeline Engagement,Segment 12:00-14:00,11 comments | 450 likes,"avg sentiment +0.30 | keywords: wear, unpack, crazy, work, hmm | top comment: ""12:27 ""DO ME"" is crazy work😭"""
+17. Video Timeline Engagement,Segment 14:00-16:00,14 comments | 283 likes,"avg sentiment +0.33 | keywords: smaller, version, little, sure, leg | top comment: ""15:30 It actually takes more than 17 years (2030-2047) to get 42%"""
+17. Video Timeline Engagement,Segment 16:00-18:00,5 comments | 61 likes,"avg sentiment +0.30 | keywords: physically, clean, fluid, ain't, water | top comment: ""17:20 cleaning fluid?? 😂😂Ain't it water"""
+17. Video Timeline Engagement,Segment 18:00-20:00,12 comments | 747 likes,"avg sentiment +0.58 | keywords: hand, minecraft, touchpad, love, play | top comment: ""19:26 a mouthpad seems like one of the best accessibility devices ever I’m sure there are thousands that needs this (edit : this is the original co..."""
+17. Video Timeline Engagement,Segment 20:00-22:00,16 comments | 440 likes,"avg sentiment +0.16 | keywords: camera, dji, drone, ring, cool | top comment: ""20:36 Every camera he tests looks such bad quality when Mrwhosetheboss goes back to his main camera😭💔"""
+17. Video Timeline Engagement,Segment 22:00-24:00,10 comments | 230 likes,"avg sentiment -0.08 | keywords: dhoom, steal, diamond, robot, remind | top comment: ""23:25 Damn, that reminded me the diamond stealing scene from Dhoom-2 😅"""
+17. Video Timeline Engagement,Segment 24:00-26:00,1 comments | 341 likes,"avg sentiment -0.03 | keywords: image, dog, dump, robot, vacuum | top comment: ""24:20 image your dog takes a dump and this robot vacuum is tryna grab it while it gets everywhere 😭"""
+18. Purchase Intent,9 likes,Negative,"17:44 god i want one of these so badly. i’m not physically disabled, but i have a lot of other uses for it, especially since i have a lot of anxiety that can physically immobilise me sometimes."
+19. Future Video Ideas,Idea 1,"Direct viewer request: ""someone try playing an fps game with the gyro sensors""",Asked for in 1 comment(s). Explicit requests are the most reliable signal of demand.
+19. Future Video Ideas,Idea 2,"Deeper follow-up on the theme ""camera / iphone / better""","33% of comments discuss this theme (average sentiment +0.24, average 311.2 likes per comment). Key terms: camera, iphone, better, bad, wear, definitely. Most-liked example: ""The iPhone footage was so much better? 😂"""
+19. Future Video Ideas,Idea 3,"Deeper follow-up on the theme ""guitar / cool / tech""","22% of comments discuss this theme (average sentiment +0.37, average 216.7 likes per comment). Key terms: guitar, cool, tech, instrument, sound, play. Most-liked example: ""Ngl, as a bassist and sometimes guitarist, I can speak for a lot of musicians when I say, almost nobody likes these e..."""
+19. Future Video Ideas,Idea 4,"Deeper follow-up on the theme ""mouthpad / leave / mind""","20% of comments discuss this theme (average sentiment +0.19, average 158.6 likes per comment). Key terms: mouthpad, leave, mind, clipper, toothbrush, poor. Most-liked example: ""0:45 Just left the poor guy with half a haircut 😂"""
+19. Future Video Ideas,Idea 5,Expand the segment at 04:00-06:00 into its own video,"14 timestamped comments with 6865 likes in total point here (keywords: camera, iphone, better, bad). Example: ""5:27 definitely prefer the iphone here"""
+19. Future Video Ideas,Idea 6,Expand the segment at 00:00-02:00 into its own video,"8 timestamped comments with 5095 likes in total point here (keywords: poor, leave, half, haircut). Example: ""0:45 Just left the poor guy with half a haircut 😂"""
+19. Future Video Ideas,Idea 7,Answer an open audience question in a dedicated video or Q&A segment,"""What did You do with his hair 1:02 😢"" (26 likes)."
+19. Future Video Ideas,Idea 8,Answer an open audience question in a dedicated video or Q&A segment,"""14:56 does it come in a smaller version approx 4-6 cm diameter? Asking for a friend"" (21 likes)."
+20. How to Maintain a Good Response,Recommendation 1,Keep the elements viewers praise,"Words that appear far more often in positive comments: cool, drone, hand, electronic, instrument, sound, future, definitely. These describe what the audience values and should remain a consistent part of future videos."
+20. How to Maintain a Good Response,Recommendation 2,Address the recurring concerns,"Words that appear far more often in negative comments: poor, control, diamond, disguise, elden, hair, half, hit. 33 comments (16%) were negative; reviewing them highlights what to avoid."
+20. How to Maintain a Good Response,Recommendation 3,Respond to the most-liked criticism,"""So many solutions in search of a problem."" (2298 likes). Acknowledging well-supported criticism publicly (pinned reply or follow-up) protects trust."
+20. How to Maintain a Good Response,Recommendation 4,Reply to viewer questions in the comments,22 comments contain questions. Answering them (or pinning a FAQ reply) raises engagement and shows the creator listens.
+20. How to Maintain a Good Response,Recommendation 5,Reuse the format of the moments viewers reference,"121 comments (60%) quote a timestamp, so viewers watch closely and react to specific moments. The strongest segments were 04:00-06:00 (6865 likes, camera, iphone, better); 00:00-02:00 (5095 likes, poor, leave, half); 18:00-20:00 (747 likes, hand, minecraft, touchpad). These are good candidates for Shorts, thumbnails and similar segments in future videos."
+20. How to Maintain a Good Response,Recommendation 6,Keep the humour,25% of comments react with jokes or laughter; the light tone is part of the appeal.
+20. How to Maintain a Good Response,Recommendation 7,Lean into the best-received theme,"The theme ""guitar / cool / tech"" has the highest average sentiment (+0.37)."
+20. How to Maintain a Good Response,Recommendation 8,Understand what the community upvotes,"Spearman correlation between sentiment and likes is -0.00; likes are driven by content (insight, humour, relatability) rather than tone alone."
